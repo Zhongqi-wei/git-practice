@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 hello one
 hello two
 hello three
 hello four
+||||||| ac47231
+hello one
+=======
+hello one
+master two
+master three
+>>>>>>> master
